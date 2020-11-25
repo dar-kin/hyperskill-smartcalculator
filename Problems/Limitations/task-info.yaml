@@ -1,0 +1,19 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    import math
+
+
+    real_number = float(input())
+    # change the next line
+    check = ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8813
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8813">JetBrains
+    Academy</a></html>
+  time: Mon, 14 Sep 2020 07:20:16 UTC
+record: -1

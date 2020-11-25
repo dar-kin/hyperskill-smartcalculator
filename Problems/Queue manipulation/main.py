@@ -1,0 +1,13 @@
+from collections import deque
+
+
+queue = deque()
+n = int(input())
+for _i in range(n):
+    comm = input().split()
+    if comm[0] == "ENQUEUE":
+        queue.appendleft(int(comm[1]))
+    elif comm[0] == "DEQUEUE":
+        queue.pop()
+for _i in range(len(queue)):
+    print(queue.pop())

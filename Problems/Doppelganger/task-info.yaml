@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # the object_list has already been defined
+    # write your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7829
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7829">JetBrains
+    Academy</a></html>
+  time: Thu, 10 Sep 2020 07:03:30 UTC
+record: -1
